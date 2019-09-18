@@ -294,6 +294,7 @@
     <Compile Include="Controllers\RegisterController.cs" />
     <Compile Include="Controllers\StartPageController.cs" />
     <Compile Include="Controllers\VideoFileController.cs" />
+    <Compile Include="Demo\MyInitializationModule.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
